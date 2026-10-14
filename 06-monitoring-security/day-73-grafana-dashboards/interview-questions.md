@@ -1,0 +1,6 @@
+# Interview Questions
+
+1. What is grafana dashboards, and why is it useful in DevOps?
+2. Explain the main components or workflow involved in grafana dashboards.
+3. What are common failure modes in grafana dashboards, and how would you troubleshoot them?
+4. What security or production-safety considerations matter for grafana dashboards?
