@@ -30,5 +30,10 @@ Ubuntu/Linux, Bash, Python, Git/GitHub, AWS IAM/EC2/S3/VPC/CloudWatch/CLI, Docke
 Comprehensive technical documentation, command cheat sheets, architecture breakdowns, and troubleshooting guides are located in the [**docs/**](./docs/README.md) directory:
 - [Phase 1: Linux Fundamentals & Bash (Days 01–15)](./docs/phase-01-linux-fundamentals/README.md)
 - [Phase 2: Git, Python & Automation (Days 16–25)](./docs/phase-02-git-python-automation/README.md)
+- [Phase 3: AWS Cloud Engineering (Days 26–40)](./docs/phase-03-aws-cloud/README.md)
+- [Phase 4: Containers & CI/CD (Docker, Jenkins, GitHub Actions) (Days 41–55)](./docs/phase-04-containers-cicd/README.md)
+- [Phase 5: Infrastructure as Code & Orchestration (Terraform, K8s) (Days 56–70)](./docs/phase-05-terraform-kubernetes/README.md)
+- [Phase 6: Monitoring, Security & Reliability (Prometheus, Grafana) (Days 71–80)](./docs/phase-06-monitoring-security/README.md)
+- [Phase 7: Production Capstone Project & Career Transition (Days 81–90)](./docs/phase-07-production-project/README.md)
 
 See `ROADMAP.md` for all 90 days and `SAFETY.md` for lab precautions.
