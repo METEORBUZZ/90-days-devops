@@ -26,5 +26,9 @@ A day-by-day practical roadmap from Linux fundamentals to AWS, automation, CI/CD
 ## Core tools
 Ubuntu/Linux, Bash, Python, Git/GitHub, AWS IAM/EC2/S3/VPC/CloudWatch/CLI, Docker, Amazon ECR, GitHub Actions, Jenkins, Terraform, Kubernetes, kubectl, Helm basics, Prometheus, Grafana, Trivy.
 
+## 📚 Knowledge Base & Learning Notes
+Comprehensive technical documentation, command cheat sheets, architecture breakdowns, and troubleshooting guides are located in the [**docs/**](./docs/README.md) directory:
+- [Phase 1: Linux Fundamentals & Bash (Days 01–15)](./docs/phase-01-linux-fundamentals/README.md)
+- [Phase 2: Git, Python & Automation (Days 16–25)](./docs/phase-02-git-python-automation/README.md)
+
 See `ROADMAP.md` for all 90 days and `SAFETY.md` for lab precautions.
-# 90-days-devops
